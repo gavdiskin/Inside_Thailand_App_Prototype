@@ -8,7 +8,7 @@ unconfigured.
 
 ## Live demo
 
-Deployed on Vercel: https://it-map-explorer-prototype-v2w-figma.vercel.app
+Deployed on Vercel: https://it-explorer-aiq6sulqv-slavetovolatilitys-projects.vercel.app/
 
 ## Stack
 
